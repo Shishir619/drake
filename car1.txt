@@ -1,3 +1,5 @@
 Hello
 Hi
 ye
+Wassup
+Bye
